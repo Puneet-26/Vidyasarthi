@@ -1,0 +1,71 @@
+# =========================
+# Flutter / Dart
+# =========================
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+coverage/
+.flutter-plugins
+.flutter-plugins-dependencies
+.generated_plugin_registrant.dart
+flutter_export_environment.sh
+
+# =========================
+# IDEs
+# =========================
+.idea/
+.vscode/
+*.iml
+
+# =========================
+# Android
+# =========================
+android/.gradle/
+android/local.properties
+android/app/build/
+*.keystore
+*.jks
+
+# =========================
+# iOS
+# =========================
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+ios/Flutter/Flutter.podspec
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+
+# =========================
+# Windows
+# =========================
+Thumbs.db
+
+# =========================
+# Linux
+# =========================
+*.swp
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Environment Files
+# =========================
+.env
+.env.*
+
+# =========================
+# Firebase (if using)
+# =========================
+# Uncomment if you want to exclude
+# google-services.json
+# GoogleService-Info.plist
